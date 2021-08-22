@@ -1,1 +1,1 @@
-Deploy url: 
+Deploy url: https://mnikhwan.github.io/PasswordGenerator/
